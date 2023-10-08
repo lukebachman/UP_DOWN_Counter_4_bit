@@ -1,5 +1,4 @@
 # UP_DOWN_Counter_4_bit
-A verilog 4-bit counter that will count up to 9 or down to 0 depending on button press and wrap around. There is a pause function that will pause the counter and an asynchronous reset that will reset the counter.
 
 • Designed an Up/Down Counter using Verilog to either count up to 9 or down to 0 and wrap around depending on the button being pressed.
 
